@@ -10,6 +10,10 @@ Currently, I am dedicated to carrying out projects that allow me to grow as a de
 My objective is to be a comprehensive fullstack developer, working collaboratively to deliver high-quality solutions and continuously improving both my technical and soft skills
 
 ## Tech Skill
+Currently Learning
+Typescript
+Django
+
 At Henry's Bootcamp, I gained knowledge and experience to start my career as a developer. The technologies I learned include:
 
 Javascript
@@ -21,4 +25,5 @@ Sequelize
 Git
 HTML
 CSS
+Sass
 I am also focused on improving my skills with these tools and learning new ones.
