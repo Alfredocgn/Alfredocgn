@@ -11,7 +11,7 @@ My objective is to be a comprehensive fullstack developer, working collaborative
 
 ## Tech Skill
 Currently Learning:
-Typescript
+Python
 Django
 
 At Henry's Bootcamp, I gained knowledge and experience to start my career as a developer. The technologies I learned include:
@@ -26,4 +26,5 @@ Git
 HTML
 CSS
 Sass
+Tailwind
 I am also focused on improving my skills with these tools and learning new ones.
