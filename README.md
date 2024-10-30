@@ -10,16 +10,20 @@ My objective is to be a comprehensive fullstack developer, working collaborative
 
 ## Tech Skill
 Currently Learning:
-Python
-Django
+NestJs
 
 At Henry's Bootcamp, I gained knowledge and experience to start my career as a developer. The technologies I learned include:
 
 Javascript
+Python
+Django
 Redux.js
 Node.js
 Express.js
+Nest.Js
 PostgreSQL
+TypeOrm
+Graphql
 Sequelize
 Git
 HTML
